@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
+## About Project
 this project is for my mobile app to make awesome sliders for my app
 this project get woocommerce data as category and allow admin to choose category and upload image to show it as slider in mobile app
 used
