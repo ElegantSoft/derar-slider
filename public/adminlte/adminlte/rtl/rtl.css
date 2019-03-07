@@ -1,0 +1,11 @@
+.sidebar-menu li a .fa-angle-left,
+.sidebar-menu li .label, .sidebar-menu li .badge {
+	margin-top: -15px !important;
+}
+.dataTables_wrapper .dataTables_filter {
+	float: left !important;
+}
+.dataTables_wrapper .dataTables_length {
+	float: right !important;
+	margin-top: 10px;
+}
